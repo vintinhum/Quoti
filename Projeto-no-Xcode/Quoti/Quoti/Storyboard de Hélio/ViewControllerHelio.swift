@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ViewControllerHelio.swift
 //  Quoti
 //
 //  Created by Vítor Bárrios Luís de Albuquerque on 24/06/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewControllerHelio: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

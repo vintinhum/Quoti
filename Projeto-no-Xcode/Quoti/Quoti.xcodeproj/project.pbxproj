@@ -12,11 +12,12 @@
 		E51C5E9D24A3A31100429116 /* Vitinho.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E51C5E9C24A3A31100429116 /* Vitinho.storyboard */; };
 		E51C5EA024A3A32100429116 /* Júlia.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E51C5E9F24A3A32100429116 /* Júlia.storyboard */; };
 		E51C5EA224A3A33200429116 /* Felipe.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E51C5EA124A3A33200429116 /* Felipe.storyboard */; };
-		E51C5EA824A3A42700429116 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EA724A3A42700429116 /* ViewController.swift */; };
-		E51C5EAA24A3A43500429116 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EA924A3A43500429116 /* ViewController.swift */; };
-		E51C5EAC24A3A43F00429116 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EAB24A3A43F00429116 /* ViewController.swift */; };
-		E51C5EAE24A3A44700429116 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EAD24A3A44700429116 /* ViewController.swift */; };
-		E51C5EB024A3A44F00429116 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EAF24A3A44F00429116 /* ViewController.swift */; };
+		E51C5EB424A3E8A600429116 /* ExplorarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EB324A3E8A600429116 /* ExplorarViewController.swift */; };
+		E51C5EB624A3EF1800429116 /* ViewControllerHelio.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EB524A3EF1800429116 /* ViewControllerHelio.swift */; };
+		E51C5EB824A3EF2F00429116 /* ViewControllerVitinho.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EB724A3EF2F00429116 /* ViewControllerVitinho.swift */; };
+		E51C5EBA24A3EF3E00429116 /* ViewControllerJulia.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EB924A3EF3E00429116 /* ViewControllerJulia.swift */; };
+		E51C5EBC24A3EF5B00429116 /* ViewControllerFelipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EBB24A3EF5B00429116 /* ViewControllerFelipe.swift */; };
+		E51C5EBE24A3EF6C00429116 /* ViewControllerAlanis.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51C5EBD24A3EF6C00429116 /* ViewControllerAlanis.swift */; };
 		E536750624A266AD001C71C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E536750524A266AD001C71C3 /* AppDelegate.swift */; };
 		E536750824A266AD001C71C3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E536750724A266AD001C71C3 /* SceneDelegate.swift */; };
 		E536750A24A266AD001C71C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E536750924A266AD001C71C3 /* ViewController.swift */; };
@@ -50,11 +51,12 @@
 		E51C5E9C24A3A31100429116 /* Vitinho.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Vitinho.storyboard; sourceTree = "<group>"; };
 		E51C5E9F24A3A32100429116 /* Júlia.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Júlia.storyboard"; path = "../Júlia.storyboard"; sourceTree = "<group>"; };
 		E51C5EA124A3A33200429116 /* Felipe.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Felipe.storyboard; sourceTree = "<group>"; };
-		E51C5EA724A3A42700429116 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E51C5EA924A3A43500429116 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E51C5EAB24A3A43F00429116 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E51C5EAD24A3A44700429116 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E51C5EAF24A3A44F00429116 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E51C5EB324A3E8A600429116 /* ExplorarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplorarViewController.swift; sourceTree = "<group>"; };
+		E51C5EB524A3EF1800429116 /* ViewControllerHelio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerHelio.swift; sourceTree = "<group>"; };
+		E51C5EB724A3EF2F00429116 /* ViewControllerVitinho.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerVitinho.swift; sourceTree = "<group>"; };
+		E51C5EB924A3EF3E00429116 /* ViewControllerJulia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerJulia.swift; sourceTree = "<group>"; };
+		E51C5EBB24A3EF5B00429116 /* ViewControllerFelipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFelipe.swift; sourceTree = "<group>"; };
+		E51C5EBD24A3EF6C00429116 /* ViewControllerAlanis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAlanis.swift; sourceTree = "<group>"; };
 		E536750224A266AD001C71C3 /* Quoti.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quoti.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E536750524A266AD001C71C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E536750724A266AD001C71C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -100,7 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				E51C5E9A24A3A2EC00429116 /* Alanis.storyboard */,
-				E51C5EAF24A3A44F00429116 /* ViewController.swift */,
+				E51C5EBD24A3EF6C00429116 /* ViewControllerAlanis.swift */,
 			);
 			path = "Storyboard de Alanis";
 			sourceTree = "<group>";
@@ -108,8 +110,9 @@
 		E51C5E9E24A3A31400429116 /* Storyboard de Vitinho */ = {
 			isa = PBXGroup;
 			children = (
+				E51C5EB324A3E8A600429116 /* ExplorarViewController.swift */,
+				E51C5EB724A3EF2F00429116 /* ViewControllerVitinho.swift */,
 				E51C5E9C24A3A31100429116 /* Vitinho.storyboard */,
-				E51C5EA724A3A42700429116 /* ViewController.swift */,
 			);
 			path = "Storyboard de Vitinho";
 			sourceTree = "<group>";
@@ -118,7 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				E51C5EA124A3A33200429116 /* Felipe.storyboard */,
-				E51C5EAD24A3A44700429116 /* ViewController.swift */,
+				E51C5EBB24A3EF5B00429116 /* ViewControllerFelipe.swift */,
 			);
 			path = "Storyboard de Felipe";
 			sourceTree = "<group>";
@@ -127,7 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				E51C5E9F24A3A32100429116 /* Júlia.storyboard */,
-				E51C5EAB24A3A43F00429116 /* ViewController.swift */,
+				E51C5EB924A3EF3E00429116 /* ViewControllerJulia.swift */,
 			);
 			name = "Storyboard de Júlia";
 			path = "Storyboard de Júlia";
@@ -137,7 +140,7 @@
 			isa = PBXGroup;
 			children = (
 				E51C5E9724A39F8500429116 /* Hélio.storyboard */,
-				E51C5EA924A3A43500429116 /* ViewController.swift */,
+				E51C5EB524A3EF1800429116 /* ViewControllerHelio.swift */,
 			);
 			name = "Storyboard de Hélio";
 			path = "Storyboard de Hélio";
@@ -336,13 +339,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E51C5EAC24A3A43F00429116 /* ViewController.swift in Sources */,
-				E51C5EAA24A3A43500429116 /* ViewController.swift in Sources */,
+				E51C5EB824A3EF2F00429116 /* ViewControllerVitinho.swift in Sources */,
+				E51C5EBC24A3EF5B00429116 /* ViewControllerFelipe.swift in Sources */,
+				E51C5EB624A3EF1800429116 /* ViewControllerHelio.swift in Sources */,
 				E536750A24A266AD001C71C3 /* ViewController.swift in Sources */,
 				E536750624A266AD001C71C3 /* AppDelegate.swift in Sources */,
-				E51C5EAE24A3A44700429116 /* ViewController.swift in Sources */,
-				E51C5EA824A3A42700429116 /* ViewController.swift in Sources */,
-				E51C5EB024A3A44F00429116 /* ViewController.swift in Sources */,
+				E51C5EBA24A3EF3E00429116 /* ViewControllerJulia.swift in Sources */,
+				E51C5EB424A3E8A600429116 /* ExplorarViewController.swift in Sources */,
+				E51C5EBE24A3EF6C00429116 /* ViewControllerAlanis.swift in Sources */,
 				E536750824A266AD001C71C3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
